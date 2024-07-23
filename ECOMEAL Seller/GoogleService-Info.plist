@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBHm_8gMcBOJmcBUD3IbPVtKAkvl7OdNHk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>206439630251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firstTest.ECOMEAL-SellerUITests</string>
+	<key>PROJECT_ID</key>
+	<string>ecomeal-fab27</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecomeal-fab27.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:206439630251:ios:7b1df42c0e02ad8b14beee</string>
+</dict>
+</plist>
